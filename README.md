@@ -1,2 +1,2 @@
 # blogsederhana
-Blog untuk website ngadakab
+Blog sederhana menggunakan Laravel 5 dan AngularJS 5
